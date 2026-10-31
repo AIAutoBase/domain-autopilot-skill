@@ -1,5 +1,7 @@
 # domain-autopilot
 
+![A clay robot in a hard hat finishing a house whose front is a flower-shop website](https://cdn.getorbix.com/orbix-cdn/aiautobase/domain-autopilot-florist-v1.jpg)
+
 A Claude Code skill that puts your idle domains on Cloudflare's free plan with a designed coming-soon page, checks that the page is really live over HTTPS, and tells you when each domain expires.
 
 Your domains stay registered where they are. Nothing is transferred.
